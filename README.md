@@ -13,3 +13,11 @@ Input: 10 <br>
 Output: 0 1 1 2 3 5 8 13 21 34<br>
 
 #
+
+2. Write a c++ program to check prime number. <br>
+Eg :- <br>
+Input: 17 <br>
+Output: not prime number <br>
+Input: 57 <br>
+Output: prime number <br>
+
