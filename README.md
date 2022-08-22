@@ -29,3 +29,10 @@ Input: 121 <br>
 Output: not palindrome number <br>
 
 #
+
+4. Write a c++ program to print factorial of a number. <br>
+Eg :-<br>
+Input: 5<br>
+Output: 120<br>
+
+#
