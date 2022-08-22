@@ -21,3 +21,11 @@ Output: not prime number <br>
 Input: 57 <br>
 Output: prime number <br>
 
+#
+
+3. Write a c++ program to check palindrome number. <br>
+Eg :- <br>
+Input: 121 <br>
+Output: not palindrome number <br>
+
+#
