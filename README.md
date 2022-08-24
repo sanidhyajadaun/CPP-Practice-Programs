@@ -36,3 +36,12 @@ Input: 5<br>
 Output: 120<br>
 
 #
+
+5. Write a c++ program to check armstrong number. <br>
+Eg :- <br>
+Input: 371 <br>
+Output: armstrong <br>
+Input: 342 <br>
+Output: not armstrong <br>
+
+#
