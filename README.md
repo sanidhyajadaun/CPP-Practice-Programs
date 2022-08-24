@@ -45,3 +45,14 @@ Input: 342 <br>
 Output: not armstrong <br>
 
 #
+
+ 
+6. Write a c++ program to print sum of digits. <br>
+Eg :- <br>
+Input: 23 <br>
+Output: 5 <br>
+Input: 624 <br>
+Output: 12 <br>
+
+#
+
