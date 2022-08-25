@@ -56,3 +56,10 @@ Output: 12 <br>
 
 #
 
+7. Write a c++ program to reverse given number. <br>
+Eg :- <br>
+Input: 234 <br>
+Output: 432 <br>
+
+#
+
