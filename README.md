@@ -63,3 +63,10 @@ Output: 432 <br>
 
 #
 
+8. Write a c++ program to swap two numbers without using third variable. <br>
+Eg :- <br>
+Input: a=5 b=10 <br>
+Output: a=10 b=5 <br>
+
+#
+
