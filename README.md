@@ -70,3 +70,32 @@ Output: a=10 b=5 <br>
 
 #
 
+9. Write a c++ program to print multiplication of 2 matrices. <br>
+Eg :- <br>
+Input: <br>
+first matrix elements: <br>
+1 2 3 <br>
+1 2 3 <br>
+1 2 3 <br>
+second matrix elements <br>
+1 1 1 <br>
+2 1 2 <br>
+3 2 1 <br>
+Output: <br>
+
+multiplication of the matrix: <br>
+14 9 8 <br>
+14 9 8 <br>
+14 9 8 <br>
+
+#
+
+10. Write a c++ program to convert decimal number to binary. <br>
+Eg :- <br>
+Input: 9 <br>
+Output: 1001 <br>
+
+Input: 20 <br>
+Output: 10100 <br>
+
+#
