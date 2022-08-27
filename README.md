@@ -82,7 +82,6 @@ second matrix elements <br>
 2 1 2 <br>
 3 2 1 <br>
 Output: <br>
-
 multiplication of the matrix: <br>
 14 9 8 <br>
 14 9 8 <br>
@@ -94,8 +93,19 @@ multiplication of the matrix: <br>
 Eg :- <br>
 Input: 9 <br>
 Output: 1001 <br>
-
 Input: 20 <br>
 Output: 10100 <br>
+
+#
+
+11. Write a c++ program to print alphabet triangle. <br>
+Eg :- <br>
+Output: <br>
+
+     A<br>
+    ABA <br>
+   ABCBA <br>
+  ABCDCBA <br>
+ ABCDEDCBA <br>
 
 #
