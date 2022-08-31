@@ -113,3 +113,15 @@ Output: <br>
 12.  C++ Program To Find Area And Circumference Of Circle.
 
 #
+
+13.  C++ Program To Print Ascii Value Of Character.
+
+#
+
+14. C++ Program To Find Area Of Triangle.
+
+#
+
+15. C++ Program to Convert a person's name in Abbreviated.
+
+#
