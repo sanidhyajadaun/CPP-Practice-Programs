@@ -126,18 +126,30 @@ Output: <br>
 
 #
 
-16. C++ Program For Calculate A Simple Interest
+16. C++ Program For Calculate A Simple Interest.
 
 #
 
-17. C++ Program To Find Greater No. Among given Three Number
+17. C++ Program To Find Greater No. Among given Three Number.
 
 #
 
-18. C++ Program To Find The Gross Salary Of An Employee
+18. C++ Program To Find The Gross Salary Of An Employee.
 
 #
 
-19. C++ Program For Calculate Percentage Of 5 Subjects
+19. C++ Program For Calculate Percentage Of 5 Subjects.
+
+#
+
+20. C++ Program For Converting Temperature Celsius Into Fahrenheit.
+
+#
+
+21. C++ Program To Display Size Of Different Datatype.
+
+#
+
+22. C++ Program To Check Number Is Positive Or Negative.
 
 #
