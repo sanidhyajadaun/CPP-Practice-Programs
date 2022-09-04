@@ -125,3 +125,19 @@ Output: <br>
 15. C++ Program to Convert a person's name in Abbreviated.
 
 #
+
+16. C++ Program For Calculate A Simple Interest
+
+#
+
+17. C++ Program To Find Greater No. Among given Three Number
+
+#
+
+18. C++ Program To Find The Gross Salary Of An Employee
+
+#
+
+19. C++ Program For Calculate Percentage Of 5 Subjects
+
+#
