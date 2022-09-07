@@ -122,6 +122,8 @@ Output: <br>
 
 #
 
+
+
 15. C++ Program to Convert a person's name in Abbreviated.
 
 #
@@ -151,5 +153,17 @@ Output: <br>
 #
 
 22. C++ Program To Check Number Is Positive Or Negative.
+
+#
+
+23. C++ Program To Find Character Is Vowel Or Not.
+
+#
+
+24. C++ Program To Read Integer (N) And Print First Three Powers (N^1, N^2, N^3)
+
+#
+
+25. C++ Program To Find The Address Of Variable.
 
 #
