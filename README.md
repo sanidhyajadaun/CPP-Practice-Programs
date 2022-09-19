@@ -198,3 +198,11 @@ Output: <br>
 32. C++ Program To Count Letters, Space, Digits, And Others Using If/Else Statements
 
 #
+
+33. C++Program To Check Date Validation (Valid Or Not) Using If/Else Statements
+
+#
+
+34. C++ Program To Determine Whether The Seller Made Profit or Loss. Also, Determine How Much Profit or Loss He Made
+
+#
