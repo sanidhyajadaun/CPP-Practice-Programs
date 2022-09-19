@@ -186,3 +186,15 @@ Output: <br>
 29. C++ Program To Find The HCF Or LCM Of Two Number Using If/Else Statements
 
 #
+
+30. C++ Program To Check Year Is Leap Year Or Not Using If/Else Statements
+
+#
+
+31. C++ Program To Check Expression Parenthesis Is Valid Or Not Using If/Else Statements
+
+#
+
+32. C++ Program To Count Letters, Space, Digits, And Others Using If/Else Statements
+
+#
