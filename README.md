@@ -206,3 +206,8 @@ Output: <br>
 34. C++ Program To Determine Whether The Seller Made Profit or Loss. Also, Determine How Much Profit or Loss He Made
 
 #
+
+35. C++ Program To Print A Table Of Given Number Using Loop
+
+#
+
