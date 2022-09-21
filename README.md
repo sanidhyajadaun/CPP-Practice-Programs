@@ -211,3 +211,7 @@ Output: <br>
 
 #
 
+36. C++ Program Print Truth Table Of XY+Z Using Loop
+
+#
+
