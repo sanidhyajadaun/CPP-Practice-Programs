@@ -217,3 +217,16 @@ Output: <br>
 
 37. C++ Program to Sort Elements in Lexicographical Order (Dictionary Order) Using For Loop.
 
+#
+
+38. Write a basic cpp program for resource sharing and resource tracking.
+
+#
+
+39. C++ program to sort an array using Bubble sort technique.
+
+#
+
+40. C++ program to sort an array using Selection sort technique.
+
+#
